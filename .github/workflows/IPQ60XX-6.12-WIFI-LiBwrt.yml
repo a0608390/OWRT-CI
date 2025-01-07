@@ -1,5 +1,5 @@
 #CI项目
-name: IPQ60XX-6.12-NOWIFI-LiBwrt
+name: IPQ60XX-6.12-WIFI-LiBwrt
 
 #CI计划
 on:
